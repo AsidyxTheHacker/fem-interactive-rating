@@ -20,7 +20,7 @@ body {
     justify-content: space-around;
     flex-direction: column;
     min-width: 14%;
-    min-height: 30%;
+    min-height: 32%;
     background-image: linear-gradient(hsl(213, 22%, 18%), hsl(216, 22%, 13%));
     border-radius: 40px;
     padding: 1em 2em;
